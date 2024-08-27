@@ -1,0 +1,57 @@
+/* Estilos personalizados para el navbar */
+.navbar-custom {
+    background-color: #780000;
+    /* Fondo oscuro del navbar */
+    border-width: 6px;
+    /* Grosor del borde */
+    border-style: solid;
+    /* Estilo sólido del borde */
+    border-image: linear-gradient(to bottom, #00cfff, #780000, #780000) 1;
+    /* Gradiente de celeste a blanco */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #fefae0;
+    /* Texto en blanco */
+}
+
+
+
+
+.row {
+
+    padding: 20px;
+    margin: 15% auto;
+    margin-top: 20px;
+    background-color: #780000;
+    color: azure;
+}
+
+body {
+    background-color: #f5e3ae;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+.row1 {
+    padding: 10px;
+    margin: 15% auto;
+    margin-top: 20px;
+
+}
+
+footer {
+    background-color: #8ECAE6;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+.col-sm-6 {
+    padding: 20px;
+    margin-top:
+        20px;
+}
